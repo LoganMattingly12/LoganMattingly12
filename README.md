@@ -7,10 +7,10 @@
 <hr>
 🛠📗 Languages and Tools
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667">
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.youtube.com/>
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;">
 <img align="left" alt="NumPy" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="max-width: 100%;">
 <img align="left" alt="NumPy" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="max-width: 100%;">
 <img align="left" alt="TF" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="max-width: 100%;">
 <img align="left" alt="Anaconda" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="max-width: 100%;">
-<img align="left" alt="R" width="30px"src=src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg"  style="max-width: 100%;">
+<img align="left" alt="R" width="30px"src=src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" style="max-width: 100%;"/>
