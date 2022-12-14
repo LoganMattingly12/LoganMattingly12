@@ -15,6 +15,6 @@
 <img align="left" alt="Anaconda" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="max-width: 100%;">
 <img align="left" alt="R" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="max-width: 100%;">
 <img align="left" alt="SQL" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="max-width: 100%;">
-<img align="left" alt="SPSS" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg"  style="max-width: 100%;">
+<img align="left" alt="SPSS" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg"  style="max-width: 100%;"/>
 <hr>
 
