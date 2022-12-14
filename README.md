@@ -7,10 +7,10 @@
 <hr>
 🛠📗 Languages and Tools
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.youtube.com/>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=https://www.linkedin.com/in/logan--mattingly/>
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;">
 <img align="left" alt="NumPy" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="max-width: 100%;">
 <img align="left" alt="NumPy" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="max-width: 100%;">
 <img align="left" alt="TF" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="max-width: 100%;">
 <img align="left" alt="Anaconda" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="max-width: 100%;">
-<img align="left" alt="R" width="30px"src=src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" style="max-width: 100%;"/>
+<img align="left" alt="R" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" style="max-width: 100%;">
