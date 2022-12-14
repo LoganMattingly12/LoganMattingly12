@@ -9,5 +9,5 @@
 
 <img align="left" alt="Python" width="60px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;">
 
-<img align="left" alt="R" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="max-height: 8%;">
+<img align="left" alt="R" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="max-height:8%;">
 
