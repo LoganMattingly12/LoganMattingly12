@@ -2,10 +2,10 @@
 
 **`Digital Investigator(Scientist/Analyst/Thinker)`**
 
-# I'm a up and coming data enthustist who is passionate about solving real world problems with the data science pipeline one step at a time. Every day I seek to come closer to bridgeing the gap between people's problems and real data driven soulutions. This requires lots of factinating software tools, useful mathmatical methods and artistially crafted visualizations. Along the way, I love learning new ground breaking techniques that I hope will enable me to help build a better tomorrow.
+### I'm a up and coming data enthustist who is passionate about solving real world problems with the data science pipeline one step at a time. Every day I seek to come closer to bridgeing the gap between people's problems and real data driven soulutions. This requires lots of factinating software tools, useful mathmatical methods and artistially crafted visualizations. Along the way, I love learning new ground breaking techniques that I hope will enable me to help build a better tomorrow.
 ---
 <hr>
-###🛠📗 Languages and Tools
+### 🛠📗 Languages and Tools
 
 <img align="left" alt="Python" width="30px" src="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;">
   
