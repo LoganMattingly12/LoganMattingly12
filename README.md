@@ -1,4 +1,4 @@
-### Logan Mattingly
+### 💬Logan Mattingly
 
 **`Data Adventurer(Scientist/Analyst/Artist)`**
 
