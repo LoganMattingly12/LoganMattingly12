@@ -11,4 +11,4 @@
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;">
 <img align="left" alt="NumPy" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="max-width: 100%;">
 <img align="left" alt="NumPy" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="max-width: 100%;">
-<img align="left" alt="TF" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="max-width: 100%;"
+<img align="left" alt="TF" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="max-width: 100%;">
