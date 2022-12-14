@@ -17,6 +17,7 @@
 <img align="left" alt="SQL" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="max-width: 100%;">
 <img align="left" alt="SPSS" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg"  style="max-width: 100%;">
 <img align="left" alt="XLSX" width="60"src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" style="max-width: 100%;"/>
+</p>
 <hr>
 <details>
   <summary><h3>Logan's Adventure so far...</h3></summary>
