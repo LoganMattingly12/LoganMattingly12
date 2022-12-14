@@ -14,3 +14,4 @@
 <img align="left" alt="TF" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="max-width: 100%;">
 <img align="left" alt="Anaconda" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="max-width: 100%;">
 <img align="left" alt="R" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="max-width: 100%;">
+<img align="left" alt="SQL" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"" style="max-width: 100%;">
