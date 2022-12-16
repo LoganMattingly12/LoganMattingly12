@@ -2,7 +2,7 @@
 
 **`Data Adventurer(Scientist/Analyst/Artist)`**
 
-### I am an up-and-coming data enthusiast who is enthusiastic about solving real world problems with the data science pipeline one step at a time. Every day I seek to come closer to bridging the gap between people's problems and real data driven solutions. This requires lots of fascinating software tools, useful mathematical methods, and artistically crafted visualizations. Along the way, I love learning new groundbreaking techniques that I hope will enable us to help build a better tomorrow.
+### I am a passionate data lover who is enthusiastic about solving real world problems with the data science pipeline one step at a time. Every day I seek to come closer to bridging the gap between people's problems and real data driven solutions. This requires lots of fascinating software tools, useful mathematical methods, and artistically crafted visualizations. Along the way, I love learning new groundbreaking techniques that I hope will enable us to help build a better tomorrow.
 
 <hr>
 🛠📗 Languages and Tools
